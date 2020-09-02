@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Gambar Pemain Bola</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_about_us">About us</string>
+    <string name="nav_rate_us">Rate us</string>
+    <string name="nav_contact_us">Contact us</string>
+    <string name="nav_more_apps">More Apps</string>
+
+    <!--config const-->
+    <string name="appId">ca-app-pub-3559020312196470~8756441979</string>
+<!--    <string name="adUnitIdBanner">ca-app-pub-3559020312196470/4187653337</string>-->
+<!--    <string name="adUnitIdInterstitial">ca-app-pub-3559020312196470/3476195132</string>-->
+<!--    <string name="idBlogLive">823947477689319119</string>-->
+<!--    <string name="apiKey">AIzaSyC8nyg0YUKxWXH56fhut2eFJnQk9JBMoFU</string>-->
+<!--    <string name="testDeviceId">C10581A3B0647778855C8312F11AE126</string>-->
+
+</resources>
